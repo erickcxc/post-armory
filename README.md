@@ -1,5 +1,7 @@
 # post-armory
 
+![AI by Erick EP 2: why post-armory exists. After every stream it writes the copy, picks the clip, checks the rules, uploads, and stays on brand, then stages the post. The operator presses Post.](assets/why-post-armory.png)
+
 Thin CLI that **arms** social posts for operator approval. It drafts post copy, enforces
 the brand copy rules in code, and tracks each post through `drafted -> armed -> posted`.
 
