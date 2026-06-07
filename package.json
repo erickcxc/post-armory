@@ -1,0 +1,16 @@
+{
+  "name": "post-armory",
+  "version": "0.1.0",
+  "description": "Queue and compose X posts for an agent to arm in the browser. The publish verb does not exist here; the operator presses Post.",
+  "type": "module",
+  "bin": {
+    "post-armory": "./bin/post-armory.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
